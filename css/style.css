@@ -1,0 +1,9 @@
+.last_background {
+    background-color: green;
+    transition: 2s;
+}
+
+.first_background {
+    background-color: red;
+    transition: 2s;
+}
